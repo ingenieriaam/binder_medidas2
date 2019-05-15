@@ -15,6 +15,10 @@ ___
 - pip install pyusb
 ___
 
+### [my binder](https://mybinder.org/v2/gh/ingenieriaam/binder_medidas2/binder_shared)
+
+___
+
 ### pasos basicos
 
 Ver si se reconoce al equipo

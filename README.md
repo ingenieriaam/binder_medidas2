@@ -16,6 +16,7 @@ ___
 ___
 
 ### [my binder](https://mybinder.org/v2/gh/ingenieriaam/binder_medidas2/binder_shared)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ingenieriaam/binder_medidas2/binder_shared)
 
 ___
 

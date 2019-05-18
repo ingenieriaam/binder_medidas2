@@ -16,7 +16,8 @@ ___
 ___
 
 ### [my binder](https://mybinder.org/v2/gh/ingenieriaam/binder_medidas2/binder_shared)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ingenieriaam/binder_medidas2/binder_shared?filepath=notebook_init)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ingenieriaam/binder_medidas2/binder_shared?urlpath=https%3A%2F%2Fgithub.com%2Fingenieriaam%2Fbinder_medidas2%2Fblob%2Fmaster%2Fnotebook_init.ipynb)
+
 ___
 
 ### pasos basicos
